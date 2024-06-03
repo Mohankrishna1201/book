@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "env": {
+    "API_KEY": "mongodb+srv://admin:AJj6aEVKqGrMs70u@cluster0.zht4cn6.mongodb.net/test",
+    "PORT": "8080"
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/"
+    }
+  ]
+}
